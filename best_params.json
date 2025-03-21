@@ -1,0 +1,226 @@
+{
+    "1": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 8,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 3,
+            "model_params__border_count": 64,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": true
+        },
+        "logloss": 0.3530686590440713,
+        "roc_auc": 0.8455384286111075
+    },
+    "2": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 6,
+            "model_params__learning_rate": 0.05,
+            "model_params__l2_leaf_reg": 3,
+            "model_params__border_count": 32,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": true
+        },
+        "logloss": 0.4942916793621524,
+        "roc_auc": 0.7358880485907832
+    },
+    "3": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 6,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 5,
+            "model_params__border_count": 64,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": false
+        },
+        "logloss": 0.5129736404731046,
+        "roc_auc": 0.5450471348169487
+    },
+    "4": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 8,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 5,
+            "model_params__border_count": 64,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": false
+        },
+        "logloss": 0.03307921570539964,
+        "roc_auc": 0.7527796783326622
+    },
+    "5": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 8,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 5,
+            "model_params__border_count": 64,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": false
+        },
+        "logloss": 0.1716707299044223,
+        "roc_auc": 0.5531323171037797
+    },
+    "6": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 6,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 3,
+            "model_params__border_count": 32,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": true
+        },
+        "logloss": 0.06055293811682414,
+        "roc_auc": 0.5355345375623476
+    },
+    "7": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 6,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 5,
+            "model_params__border_count": 64,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": true
+        },
+        "logloss": 0.17453944819911682,
+        "roc_auc": 0.5032936774001295
+    },
+    "8": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 6,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 5,
+            "model_params__border_count": 64,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": true
+        },
+        "logloss": 0.44195613947384343,
+        "roc_auc": 0.7082990786556421
+    },
+    "9": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 6,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 3,
+            "model_params__border_count": 32,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": false
+        },
+        "logloss": 0.05224668570693617,
+        "roc_auc": 0.5575043238518547
+    },
+    "10": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 6,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 3,
+            "model_params__border_count": 32,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": false
+        },
+        "logloss": 0.3670508777860129,
+        "roc_auc": 0.5964432424183571
+    },
+    "11": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 8,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 3,
+            "model_params__border_count": 64,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": false
+        },
+        "logloss": 0.4603663970448046,
+        "roc_auc": 0.5795580558313217
+    },
+    "12": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 6,
+            "model_params__learning_rate": 0.05,
+            "model_params__l2_leaf_reg": 3,
+            "model_params__border_count": 32,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": true
+        },
+        "logloss": 0.09305119553914587,
+        "roc_auc": 0.9513555351265527
+    },
+    "13": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 8,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 3,
+            "model_params__border_count": 32,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": true
+        },
+        "logloss": 0.08785259659646277,
+        "roc_auc": 0.9256874389625107
+    },
+    "14": {
+        "params": {
+            "use_feature_selection": false,
+            "min_filled_ratio": 0.6,
+            "model_params__iterations": 100,
+            "model_params__depth": 6,
+            "model_params__learning_rate": 0.1,
+            "model_params__l2_leaf_reg": 3,
+            "model_params__border_count": 64,
+            "calibration_method": "isotonic",
+            "cv": 2,
+            "calibrate": false
+        },
+        "logloss": 0.34110128630261144,
+        "roc_auc": 0.5857537081253752
+    }
+}
